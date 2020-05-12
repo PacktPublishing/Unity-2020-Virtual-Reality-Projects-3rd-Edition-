@@ -28,6 +28,7 @@
 *.psd filter=lfs -crlf
 *.tga filter=lfs -crlf
 *.tif filter=lfs -crlf
+*.unitypackage filter=lfs -crlf
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.hdr filter=lfs diff=lfs merge=lfs -text
 *.apk filter=lfs diff=lfs merge=lfs -text
