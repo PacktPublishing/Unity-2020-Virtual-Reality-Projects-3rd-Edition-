@@ -32,8 +32,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 2
-    aniso: 2
-    mipBias: -100
+    aniso: 4
+    mipBias: -1
     wrapU: -1
     wrapV: -1
     wrapW: -1

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2de0d72a6700bd94ea57111b29e246fc
+guid: decb53a77cbd3a94d99e31867d84b9c7
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -32,8 +32,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: -1
-    aniso: 2
-    mipBias: -100
+    aniso: 4
+    mipBias: -1
     wrapU: -1
     wrapV: -1
     wrapW: -1
@@ -84,7 +84,7 @@ TextureImporter:
     buildTarget: iPhone
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: 33
+    textureFormat: 32
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -95,7 +95,7 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: 47
+    textureFormat: 34
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
