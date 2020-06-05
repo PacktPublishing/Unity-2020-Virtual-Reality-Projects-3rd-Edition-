@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 682b2f0cb422bdb488029a24334cb89a, type: 3}
+  m_Name: ArtData07
+  m_EditorClassIdentifier: 
+  image: {fileID: 2800000, guid: 0457d0bb6062cc74b9d273e777e8bbba, type: 3}
+  title: 07-ms-jemini-photos-1604059-unsplash
+  artist: Ms Jemini
+  description: 'source: unsplash.com'
