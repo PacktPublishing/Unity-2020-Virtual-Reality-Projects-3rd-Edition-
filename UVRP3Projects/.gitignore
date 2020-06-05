@@ -95,3 +95,6 @@ PackageBackups/
 # =========================
 /UWP/*
 
+# too big for PacktPub github
+*.webm
+
