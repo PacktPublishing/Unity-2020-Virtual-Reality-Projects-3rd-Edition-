@@ -7,24 +7,25 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WispySkyboxMat2
-  m_Shader: {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
+  m_Name: rock03N
+  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_ShaderKeywords: _NORMALMAP _OCCLUSIONMAP
+  m_LightmapFlags: 6
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
+  m_CustomRenderQueue: 2050
+  stringTagMap:
+    RenderType: Opaque
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BackTex:
-        m_Texture: {fileID: 2800000, guid: 16c4243807886a04dbbcb777806c5b59, type: 3}
+    - _BaseMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: cd57fd3ee0b3d784fa778e89a9da44a8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -39,20 +40,8 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _DownTex:
-        m_Texture: {fileID: 2800000, guid: a33ce2b88e6af574ea30808871a61640, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _FrontTex:
-        m_Texture: {fileID: 2800000, guid: 569c870bdaf96374f98aa4c7a05d3a57, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _LeftTex:
-        m_Texture: {fileID: 2800000, guid: 569679e95ebdccf4e947af1359522a42, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -64,39 +53,58 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 85c7a41d59b21a146b348c2dab928d58, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _RightTex:
-        m_Texture: {fileID: 2800000, guid: ea4a7f083ecb4b946bac3754cba78c49, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _UpTex:
-        m_Texture: {fileID: 2800000, guid: 7046a0b4cc52e6e42b431fd577ba1de8, type: 3}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _AlphaClip: 0
+    - _Blend: 0
     - _BumpScale: 1
+    - _Cull: 2
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _EmissionScaleUI: 0
-    - _Exposure: 1
-    - _Glossiness: 0.5
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
-    - _OcclusionStrength: 1
+    - _OcclusionStrength: 0.4
     - _Parallax: 0.02
-    - _Rotation: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _Surface: 0
     - _UVSec: 0
+    - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.45588237, g: 0.41038656, b: 0.37543252, a: 1}
+    - _Color: {r: 0.45588237, g: 0.4103866, b: 0.37543255, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
-    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+--- !u!114 &10544928647791769
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1

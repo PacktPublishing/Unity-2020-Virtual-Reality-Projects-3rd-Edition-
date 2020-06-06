@@ -95,5 +95,7 @@ PackageBackups/
 # =========================
 /UWP/*
 
-# too big for PacktPub github
+# do not include on PacktPub github
 *.webm
+living birds/
+Demigiant/
