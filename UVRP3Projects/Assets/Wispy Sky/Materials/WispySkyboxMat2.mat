@@ -85,7 +85,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EmissionScaleUI: 0
-    - _Exposure: 1
+    - _Exposure: 0.9250737
     - _Glossiness: 0.5
     - _Metallic: 0
     - _Mode: 0
