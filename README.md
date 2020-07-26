@@ -10,7 +10,7 @@ This is the code repository for [Unity 2020 Virtual Reality Projects](https://ww
 The third edition of the Unity VR development guide is updated to cover the latest features of Unity 2019.3 or later - the leading platform for building virtual reality games, applications, and immersive experiences for contemporary VR devices.
 Enhanced with more focus on growing components, such as Universal Render Pipeline, XR Plugins, the XR Interaction Toolkit, and the latest VR devices, this edition will help you to get up to date with the current state of VR. With its practical and project-based approach, this book covers the specifics of virtual reality development in Unity. You'll learn how to build VR apps that can be experienced with modern devices such as Oculus Rift and Quest.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Understand the current state of virtual reality and VR consumer products
 * Get started with Unity by building a simple diorama scene using the Unity Editor and imported assets
 * Configure your Unity VR projects to run on VR platforms such as Oculus, SteamVR, and Windows IMR
