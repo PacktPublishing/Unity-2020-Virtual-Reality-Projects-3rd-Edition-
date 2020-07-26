@@ -12,9 +12,9 @@ Each chapter in the book has a corresponding folder in the Assets/_UVRP3Assets/ 
 
 As instructed in the book, you may need to convert materials to the current render pipeline, especially ones imported from the Asset Store or other sources. (Select Edit | Render Pipeline | Universal Render Pipeline | Upgrade Project Materials to URP Materials).
 
-------------------------------
+---------------------------------------
  Chapter 12 important note:
-------------------------------
+----------------------------------------
 Chapter 12 requires additional assets that must be downloaded separately from the Asset Store, including:
 
 Living Birds: https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649
