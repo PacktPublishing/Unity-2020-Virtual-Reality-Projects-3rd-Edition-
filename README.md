@@ -1,54 +1,62 @@
-# Unity 2020 Virtual Reality Projects (3rd Edition)
-Unity 2020 Virtual Reality Projects (3rd Edition), published by Packt
+# Unity 2020 Virtual Reality Projects
 
-## Repository Contents
+<a href="https://www.packtpub.com/game-development/unity-2020-virtual-reality-projects-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839217333"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781839217333-original.jpeg" alt="Unity 2020 Virtual Reality Projects" height="256px" align="right"></a>
 
-* UVRP3Files/ folder - Starting files for each project, as separate .zip files for each chapter
-* UVRP3Projects/ folder - Completed projects for each chapter, as separate Scenes in a single Unity project 
+This is the code repository for [Unity 2020 Virtual Reality Projects](https://www.packtpub.com/game-development/unity-2020-virtual-reality-projects-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781839217333), published by Packt.
 
-## Book Description
+**Learn VR development by building immersive applications and games with Unity 2019.3 or later**
 
-Unity Virtual Reality Projects walks you through a series of hands-on tutorials and in-depth discussions on using Unity with C#. With its practical and project-based approach, this book will get you up to speed with the specifics of VR development in Unity by building real-world projects that explore various core 3D development concepts.
+## What is this book about?
+The third edition of the Unity VR development guide is updated to cover the latest features of Unity 2019.3 or later - the leading platform for building virtual reality games, applications, and immersive experiences for contemporary VR devices.
+Enhanced with more focus on growing components, such as Universal Render Pipeline, XR Plugins, the XR Interaction Toolkit, and the latest VR devices, this edition will help you to get up to date with the current state of VR. With its practical and project-based approach, this book covers the specifics of virtual reality development in Unity. You'll learn how to build VR apps that can be experienced with modern devices such as Oculus Rift and Quest.
 
-Available from Packt Publishing, Amazon.com and other resellers.
+This book covers the following exciting features: <First 5 What you'll learn points>
+* Understand the current state of virtual reality and VR consumer products
+* Get started with Unity by building a simple diorama scene using the Unity Editor and imported assets
+* Configure your Unity VR projects to run on VR platforms such as Oculus, SteamVR, and Windows IMR
+* Design and build a VR storytelling animation with a soundtrack and timelines
+* Implement an audio fireball game using game physics and particle systems
 
-https://www.packtpub.com/game-development/unity-2020-virtual-reality-projects-third-edition
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839217332) today!
 
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
-## Table of Contents
+## Instructions and Navigations
+All of the code is organized into folders. For example, Chapter02.
 
-1. Virtually Everything for Everyone
-2. Understanding Unity, Content, and Scale
-3. Setting Up Your Project for VR
-4. Using Gaze-Based Control
-5. Interacting with Your Hands
-6. Canvasing the World Space UI
-7. Teleporting, Locomotion and Comfort
-8. Lighting, Rendering, Realism
-9. Playing with Physics and Fire
-10. Exploring Interactive Spaces
-11. Using All 360 Degrees
-12. Animation and VR Storytelling
-13. Optimizing for Performance and Comfort
+The code will look like the following:
+```
+if (test expression)
+{
+  Statement upon condition is true
+}
+```
 
+**Following is what you need for this book:**
+Whether you're a non-programmer unfamiliar with 3D computer graphics or experienced in both but new to virtual reality, if you're interested in building your own VR games or applications, this Unity book is for you. Any experience in Unity will be helpful but not required.
 
-## Installation Notes
+With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
 
-Each chapter in the book has a corresponding folder in the Assets/\_UVRP3Assets/ folder. Within that folder may be subfolders for Textures, Materials, Prefabs and other assets, including project Scenes.
+### Software and Hardware List
 
-As instructed in the book, you may need to convert materials to the current render pipeline, especially ones imported from the Asset Store or other sources. (Select Edit | Render Pipeline | Universal Render Pipeline | Upgrade Project
-Materials to URP Materials).
+| Chapter  | Software required                   | OS required                        |
+| -------- | ------------------------------------| -----------------------------------|
+| 1 to 13  | Unity version 2019.4 or Unity 2020.x| Windows, Mac OS X, and Linux (Any) |
 
-### Chapter 12
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
 
-Chapter 12 requires additional assets that must be downloaded separately from the Asset Store, including:
+### Related products <Other books you may enjoy>
+* Unity Certified Programmer: Exam Guide [[Packt]](https://www.packtpub.com/game-development/unity-certified-programmer-study-guide?utm_source=github&utm_medium=repository&utm_campaign=9781838828424) [[Amazon]](https://www.amazon.com/dp/1838828427)
 
-* Living Birds: https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649
-* DOTween: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676 
+* Unity Game Optimization - Third Edition [[Packt]](https://www.packtpub.com/game-development/unity-game-optimization-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838556518) [[Amazon]](https://www.amazon.com/dp/1838556516)
 
-_After installing these assets, unpack the Chapter12.unitypackage. Also note, per Chapter 12 topic "Living Birds Animator", the imported lb_Bird.cs script may need to be modified slightly to avoid its Null Reference error._
+## Get to Know the Author
+**Jonathan Linowes**
+is a long-time Unity developer and software engineer with a focus on VR and AR games and applications. He founded Parkerhill XR Studio and Reality Labs, an immersive indie studio and developer of products including the BridgeXR toolkit, the Power Solitaire VR game, and the Epoch Resources mobile game. He is a VR/AR evangelist, Unity developer, entrepreneur, and Certified Unity Instructor. Jonathan has a Bachelor of Fine Arts degree from Syracuse University, a Master of Science degree from the MIT Media Lab, and has held technical leadership positions at Autodesk and other companies. He has authored several books on VR and AR from Packt Publishing.
 
+## Other books by the authors
+* [Unity Virtual Reality Projects - Second Edition](https://www.packtpub.com/game-development/unity-virtual-reality-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788478809)
+* [Unity Virtual Reality Projects](https://www.packtpub.com/game-development/unity-virtual-reality-projects?utm_source=github&utm_medium=repository&utm_campaign=9781783988556)
 
-## About the Author
-
-Jonathan Linowes is a long time Unity developer and software engineer with a focus on VR and AR games and applications. He founded Parkerhill XR Studio and Reality Labs, an immersive indie studio and developer of products including BridgeXR toolkit, Power Solitaire VR game, and Epoch Resources mobile game. He is a VR/AR evangelist, Unity developer, entrepreneur, and Certified Unity Instructor. Jonathan has a Bachelor of Fine Arts degree from Syracuse University, a Master of Science degree from the MIT Media Lab, and held technical leadership positions at Autodesk and other companies. He has authored several books on VR and AR from Packt Publishing.
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
