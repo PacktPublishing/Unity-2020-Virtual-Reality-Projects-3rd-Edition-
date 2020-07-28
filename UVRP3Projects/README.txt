@@ -21,3 +21,11 @@ Living Birds: https://assetstore.unity.com/packages/3d/characters/animals/living
 DOTween: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
 
 After installing these assets, unpack the Chapter12.unitypackage. Also note, per Chapter 12 topic "Living Birds Animator", the imported lb_Bird.cs script may need to be modified slightly to avoid its Null Reference error.
+
+---------------------------
+ Script File Naming:
+---------------------------
+Generally, the script names in this repository match the ones given in the book. In a few cases where a script is modified in a later chapter, the book may maintain the original script (and class) names but here a postfix is added to the name with the chapter number. For example, in Chapter 6 (versus Chapter 4),
+
+* KillTarget06.cs (versus KillTarget.cs)
+* LookMoveTo06.cs (versus LookMoveTo.cs)
