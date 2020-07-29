@@ -55,6 +55,8 @@ is a long-time Unity developer and software engineer with a focus on VR and AR g
 ## Other books by the authors
 * [Unity Virtual Reality Projects - Second Edition](https://www.packtpub.com/game-development/unity-virtual-reality-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788478809)
 * [Unity Virtual Reality Projects](https://www.packtpub.com/game-development/unity-virtual-reality-projects?utm_source=github&utm_medium=repository&utm_campaign=9781783988556)
+* [Augmented Reality for Developers](https://www.packtpub.com/web-development/augmented-reality-developers?utm_source=github&utm_medium=repository&utm_campaign=9781787286436)
+* [Cardboard VR Projects for Android](https://www.packtpub.com/application-development/cardboard-vr-projects-android?utm_source=github&utm_medium=repository&utm_campaign=9781785887871)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
