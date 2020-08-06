@@ -62,4 +62,4 @@ is a long-time Unity developer and software engineer with a focus on VR and AR g
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
 ## Important note
-The files in this GitHub repo are too large in size. So, the files might not get extracted when the code files are downloaded directly from the GitHub repo. The solution to this problem is- "You need to clone the GitHub repo on your local system using the GitHub Desktop application. And once the repo is cloned and saved on your local system, then you can extract the files without facing any issues.
+The files in this GitHub repo are too large in size. So, the files might not get extracted when the code files are downloaded directly from the GitHub repo. The solution to this problem is- "You need to clone the GitHub repo on your local system using the GitHub Desktop application. And once the repo is cloned and saved on your local system, then you can extract the files without facing any issues".
