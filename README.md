@@ -63,3 +63,7 @@ is a long-time Unity developer and software engineer with a focus on VR and AR g
 
 ## Important note
 The files in this GitHub repo are too large in size. So, the files might not get extracted when the code files are downloaded directly from the GitHub repo. The solution to this problem is- "You need to clone the GitHub repo on your local system using the GitHub Desktop application. And once the repo is cloned and saved on your local system, then you can extract the files without facing any issues".
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781839217333">https://packt.link/free-ebook/9781839217333 </a> </p>
